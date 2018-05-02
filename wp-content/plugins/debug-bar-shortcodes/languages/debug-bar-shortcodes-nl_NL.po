@@ -1,0 +1,590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Debug Bar Shortcodes - a WordPress Plugin\n"
+"POT-Creation-Date: 2016-04-29 09:16+0200\n"
+"PO-Revision-Date: 2016-04-29 09:17+0200\n"
+"Last-Translator: Juliette Reinders Folmer <wpplugins_nospam@adviesenzo.nl>\n"
+"Language-Team: Juliette Reinders Folmer <wpplugins_nospam@adviesenzo.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-debug-bar-shortcodes-render.php:58
+msgid "Total Registered Shortcodes:"
+msgstr "Totaal geregistreerde Shortcodes:"
+
+#: class-debug-bar-shortcodes-render.php:97
+msgid "Shortcode is used"
+msgstr "Shortcode wordt gebruikt"
+
+#: class-debug-bar-shortcodes-render.php:97
+msgid "Shortcode not used"
+msgstr "Shortcode wordt niet gebruikt"
+
+#: class-debug-bar-shortcodes-render.php:126
+msgid "No shortcodes found."
+msgstr "Geen shortcodes gevonden."
+
+#: class-debug-bar-shortcodes-render.php:143
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: class-debug-bar-shortcodes-render.php:144
+msgid "Rendered by"
+msgstr "Callback functie"
+
+#: class-debug-bar-shortcodes-render.php:148
+msgid "In use?"
+msgstr "In gebruik?"
+
+#: class-debug-bar-shortcodes-render.php:149
+msgid "Usage"
+msgstr "Gebruik"
+
+#: class-debug-bar-shortcodes-render.php:171
+msgid "View more detailed information about the shortcode."
+msgstr "Bekijk meer gedetailleerde informatie over deze shortcode."
+
+#: class-debug-bar-shortcodes-render.php:171 class-debug-bar-shortcodes.php:112
+msgid "View details"
+msgstr "Bekijk details"
+
+#: class-debug-bar-shortcodes-render.php:174
+msgid "Try and retrieve more detailed information about the shortcode."
+msgstr ""
+"Probeer meer gedetailleerde informatie over deze shortcode op te halen."
+
+#: class-debug-bar-shortcodes-render.php:174
+msgid "Retrieve details"
+msgstr "Haal details op"
+
+#: class-debug-bar-shortcodes-render.php:177
+msgid "Find out where this shortcode is used (if at all)"
+msgstr "Vind uit waar deze shortcode gebruikt wordt (als überhaupt)"
+
+#: class-debug-bar-shortcodes-render.php:177
+msgid "Find uses"
+msgstr "Vind gebruik"
+
+#: class-debug-bar-shortcodes-render.php:197
+msgid "View extended info about the shortcode on the web"
+msgstr "Bekijk uitgebreidere informatie over de shortcode op het web"
+
+#: class-debug-bar-shortcodes-render.php:197
+msgid "View online"
+msgstr "Bekijk online"
+
+#: class-debug-bar-shortcodes-render.php:312
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#: class-debug-bar-shortcodes-render.php:425
+msgid "Name"
+msgstr "Naam"
+
+#: class-debug-bar-shortcodes-render.php:434
+msgid "Description"
+msgstr "Omschrijving"
+
+#: class-debug-bar-shortcodes-render.php:446
+msgid "Info Url"
+msgstr "Info Url"
+
+#: class-debug-bar-shortcodes-render.php:456
+msgid "Required parameters"
+msgstr "Verplichte parameters"
+
+#: class-debug-bar-shortcodes-render.php:465
+msgid "Optional parameters"
+msgstr "Optionele parameters"
+
+#: class-debug-bar-shortcodes-render.php:476
+msgid "Shortcode details"
+msgstr "Shortcode details"
+
+#: class-debug-bar-shortcodes-render.php:495
+msgid "Syntax"
+msgstr "Syntax"
+
+#: class-debug-bar-shortcodes-render.php:508
+#: class-debug-bar-shortcodes-render.php:755
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: class-debug-bar-shortcodes-render.php:630
+msgid "Shortcode found in the following posts/pages/etc:"
+msgstr "Shortcode gevonden in de volgende berichten/pagina's/etc:"
+
+#: class-debug-bar-shortcodes-render.php:635
+msgid "Title"
+msgstr "Titel"
+
+#: class-debug-bar-shortcodes-render.php:636
+msgid "Post Type"
+msgstr "Post Type"
+
+#: class-debug-bar-shortcodes-render.php:637
+msgid "Status"
+msgstr "Status"
+
+#: class-debug-bar-shortcodes-render.php:638
+msgid "Author"
+msgstr "Auteur"
+
+#: class-debug-bar-shortcodes-render.php:639
+msgid "Shortcode usage(s)"
+msgstr "Gevonden gebruik"
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:655
+msgid "Edit this item"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:657
+msgid "Edit"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:663
+#, php-format
+msgid "Preview &#8220;%s&#8221;"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:666
+msgid "Preview"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:672
+#, php-format
+msgid "View &#8220;%s&#8221;"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:674
+msgid "View"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:725
+msgid "Published"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:730
+msgid "Scheduled"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:735
+msgid "Private"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:740
+msgid "Pending Review"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:746
+msgid "Draft"
+msgstr ""
+
+#. translators: no need to translate, WP standard translation will be used.
+#: class-debug-bar-shortcodes-render.php:751
+msgid "Trash"
+msgstr ""
+
+#: class-debug-bar-shortcodes.php:45
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: class-debug-bar-shortcodes.php:111
+msgid "Hide details"
+msgstr "Verberg details"
+
+#: class-debug-bar-shortcodes.php:113
+msgid "No details found"
+msgstr "Geen details gevonden"
+
+#: class-debug-bar-shortcodes.php:114
+msgid "Hide Uses"
+msgstr "Verberg gebruik"
+
+#: class-debug-bar-shortcodes.php:115
+msgid "View Uses"
+msgstr "Bekijk gebruik"
+
+#: class-debug-bar-shortcodes.php:116
+msgid "Not Used"
+msgstr "Niet in gebruik"
+
+#: class-debug-bar-shortcodes.php:117
+msgid ""
+"Ajax request failed or no proper response received. If you have WP_DEBUG "
+"enabled, this might be caused by a php error. The js error console might "
+"contain more information."
+msgstr ""
+
+#: class-debug-bar-shortcodes.php:118
+msgid "Illegal request received."
+msgstr "Illegaal verzoek ontvangen."
+
+#: shortcode-info/class-shortcode-info-audio.php:41
+msgid "Audio Media"
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-audio.php:42
+msgid ""
+"The Audio feature allows you to embed audio files and play them back. This "
+"was added as of WordPress 3.6."
+msgstr ""
+
+#. translators: %s = file format.
+#: shortcode-info/class-shortcode-info-audio.php:45
+#, php-format
+msgid "Source of %s fallback file"
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-audio.php:48
+msgid ""
+"The source of your audio file. If not included it will auto-populate with "
+"the first audio file attached to the post."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-audio.php:54
+msgid "Allows for the looping of media. Defaults to \"off\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-audio.php:55
+#: shortcode-info/class-shortcode-info-video.php:65
+msgid ""
+"Causes the media to automatically play as soon as the media file is ready. "
+"Defaults to \"off\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-audio.php:56
+msgid ""
+"Specifies if and how the audio should be loaded when the page loads. "
+"Defaults to \"none\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-caption.php:41
+msgid "Wrap captions around content"
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-caption.php:42
+msgid ""
+"The Caption feature allows you to wrap captions around content. This is "
+"primarily used with individual images."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-caption.php:45
+msgid "The actual text of your caption."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-caption.php:46
+msgid "How wide the caption should be in pixels."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-caption.php:50
+msgid "A unique HTML ID that you can change to use within your CSS."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-caption.php:51
+msgid ""
+"The alignment of the caption within the post. Valid values are: alignnone "
+"(default), aligncenter, alignright, and alignleft."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-embed.php:41
+msgid "Embed videos, images, and other content"
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-embed.php:42
+msgid ""
+"You can opt to wrap a URL in the [embed] shortcode. It will accomplish the "
+"same effect as having it on a line of it's own, but does not require the "
+"\"Auto-embeds\" setting to be enabled. It also allows you to set a maximum "
+"(but not fixed) width and height.If WordPress fails to embed your URL you "
+"will get a hyperlink to the URL."
+msgstr ""
+
+#. translators: %s = height/weight.
+#: shortcode-info/class-shortcode-info-embed.php:45
+#, php-format
+msgid "Maximum %s for the embedded object."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-embed.php:48
+#: shortcode-info/class-shortcode-info-video.php:48
+msgid "height"
+msgstr "hoogte"
+
+#: shortcode-info/class-shortcode-info-embed.php:49
+#: shortcode-info/class-shortcode-info-video.php:49
+msgid "width"
+msgstr "breedte"
+
+#: shortcode-info/class-shortcode-info-gallery.php:41
+msgid "Image Gallery"
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:42
+msgid ""
+"The Gallery feature allows you to add one or more image galleries to your "
+"posts and pages."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:45
+msgid ""
+"Specify how to sort the display thumbnails. The default is \"menu_order\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:46
+msgid "Specify the sort order used to display thumbnails. ASC or DESC."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:47
+msgid ""
+"Specify the number of columns. The gallery will include a break tag at the "
+"end of each row, and calculate the column width as appropriate. The default "
+"value is 3. If columns is set to 0, no row breaks will be included."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:48
+msgid ""
+"Specify the post ID. The gallery will display images which are attached to "
+"that post. The default behavior, if no ID is specified, is to display images "
+"attached to the current post."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:49
+msgid ""
+"specify the image size to use for the thumbnail display. Valid values "
+"include \"thumbnail\", \"medium\", \"large\", \"full\". The default value is "
+"\"thumbnail\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:50
+msgid ""
+"The name of the XHTML tag used to enclose each item in the gallery. The "
+"default is \"dl\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:51
+msgid ""
+"The name of the XHTML tag used to enclose each thumbnail icon in the "
+"gallery. The default is \"dt\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:52
+msgid ""
+"The name of the XHTML tag used to enclose each caption. The default is \"dd"
+"\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:53
+msgid ""
+"You can set it to \"file\" so each image will link to the image file. The "
+"default value links to the attachment's permalink."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:54
+msgid ""
+"Comma separated attachment IDs to show only the images from these "
+"attachments. "
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-gallery.php:55
+msgid ""
+"Comma separated attachment IDs excludes the images from these attachments. "
+"Please note that include and exclude cannot be used together."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-lhr.php:50
+msgid "No information available"
+msgstr "Geen informatie beschikbaar"
+
+#: shortcode-info/class-shortcode-info-playlist.php:41
+msgid "Media Playlist"
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:42
+msgid ""
+"The playlist shortcode implements the functionality of displaying a "
+"collection of WordPress audio or video files in a post using a simple "
+"Shortcode."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:45
+msgid ""
+"Type of playlist to display. Accepts \"audio\" or \"video\". Defaults to "
+"\"audio\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:46
+msgid ""
+"Designates ascending or descending order of items in the playlist. Accepts "
+"\"ASC\", \"DESC\". Defaults to \"ASC\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:47
+msgid ""
+"Any column, or columns, to sort the playlist by. Accepts \"rand\" to play "
+"the list in random order. Defaults to \"menu_order ID\". If `$ids` are "
+"passed, this defaults to the order of the $ids array ('post__in')."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:48
+msgid ""
+"If an explicit `$ids` array is not present, this parameter will determine "
+"which attachments are used for the playlist. Defaults to the current post ID."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:49
+msgid ""
+"Create a playlist out of these explicit attachment IDs. If empty, a playlist "
+"will be created from all `$type` attachments of `$id`."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:50
+msgid "List of specific attachment IDs to exclude from the playlist."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:51
+msgid ""
+"Playlist style to use. Accepts \"light\" or \"dark\". Defaults to \"light\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:52
+msgid "Whether to show or hide the playlist. Defaults to (bool) true."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:53
+msgid ""
+"Whether to show or hide the numbers next to entries in the playlist. "
+"Defaults to (bool) true."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:54
+msgid ""
+"Show or hide the video or audio thumbnail (Featured Image/post thumbnail). "
+"Defaults to (bool) true."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-playlist.php:55
+msgid ""
+"Whether to show or hide artist name in the playlist. Defaults to (bool) true."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-video.php:41
+msgid "Video Media"
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-video.php:42
+msgid ""
+"The Video feature allows you to embed video files and play them back. This "
+"was added as of WordPress 3.6."
+msgstr ""
+
+#. translators: %s = height/weight.
+#: shortcode-info/class-shortcode-info-video.php:45
+#, php-format
+msgid ""
+"Defines %s of the media. Value is automatically detected on file upload."
+msgstr ""
+
+#. translators: %s = file extension.
+#: shortcode-info/class-shortcode-info-video.php:53
+#, php-format
+msgid "Source of %s fallback file."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-video.php:56
+msgid ""
+"The source of your video file. If not included it will auto-populate with "
+"the first video file attached to the post."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-video.php:63
+msgid ""
+"Defines image to show as placeholder before the media plays. Defaults to "
+"\"none\"."
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-video.php:64
+msgid "Allows for the looping of media. Defaults to \"off\""
+msgstr ""
+
+#: shortcode-info/class-shortcode-info-video.php:66
+msgid ""
+"Specifies if and how the video should be loaded when the page loads. "
+"Defaults to \"metadata\"."
+msgstr ""
+
+#~ msgid "Value"
+#~ msgstr "Waarde"
+
+#~ msgid "WP Constants"
+#~ msgstr "WP Constants"
+
+#~ msgid "Constants within WP:"
+#~ msgstr "Constants binnen WP:"
+
+#~ msgid "No constants found... this is really weird..."
+#~ msgstr "Geen constants gevonden... dit is vreemd..."
+
+#~ msgid "WP Class Constants"
+#~ msgstr "WP Class Constants"
+
+#~ msgid ""
+#~ "<strong>Please note</strong>: these may be both native WordPress classes "
+#~ "as well as classes which may be declared by plugins or Themes.<br />You "
+#~ "can use these constants in your code using <code>class_name::"
+#~ "constant_name</code>."
+#~ msgstr ""
+#~ "<strong>Toelichting:</strong>: dit kunnen zowel de WordPress eigen "
+#~ "classes zijn als ook de classes welke door plugins of themes gedeclareerd "
+#~ "zijn.<br />Je kan deze constants in je eigen code gebruiken door middel "
+#~ "van <code>class_name::constant_name</code>."
+
+#~ msgid "See the <a %s>FAQ</a> for more information."
+#~ msgstr "Lees de <a %s>FAQ</a> voor meer informatie."
+
+#~ msgid "Constants:"
+#~ msgstr "Constants:"
+
+#~ msgid "No classes nor class constants found... this is kinda strange..."
+#~ msgstr "Geen classes of class constants gevonden... dit is vreemd..."
+
+#~ msgid "PHP Constants"
+#~ msgstr "PHP Constants"
+
+#~ msgid "Visit the PHP manual page about the %s constants."
+#~ msgstr "Bezoek de PHP handleiding pagina over de %s constants."
+
+#~ msgid "No PHP constants found... this is really weird..."
+#~ msgstr "Geen PHP constants gevonden... dit is vreemd..."
+
+#~ msgid ""
+#~ "Debug Bar must be activated to use the Debug Bar Constants Plugin. <a "
+#~ "href=\"%s\">Visit your plugins page to activate</a>."
+#~ msgstr ""
+#~ "Debug Bar moet geactiveerd zijn om de Debug Bar Constants Plugin te "
+#~ "kunnen gebruiken. <a href=\"%s\">Ga naar de plugins pagina om deze te "
+#~ "activeren</a>."
+
+#~ msgid "Nothing to display"
+#~ msgstr "Niets om weer te geven"

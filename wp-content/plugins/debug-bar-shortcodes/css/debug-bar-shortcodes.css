@@ -1,0 +1,113 @@
+/* CSS for plugin: Debug Bar Shortcodes */
+#debug-menu-target-Debug_Bar_Shortcodes h3 {
+	font-family: georgia, times, serif;
+	font-size: 22px;
+	margin-top: 1.2em;
+	clear: both;
+}
+
+
+table#debug-bar-shortcodes {
+	width: 100%;
+	border-collapse: collapse;
+	cell-padding: 1em;
+	clear: both;
+	line-height: 1.5;
+	font-size: 12px;
+	table-layout: auto;
+}
+table#debug-bar-shortcodes thead tr,
+table#debug-bar-shortcodes tfoot tr {
+	background-color: #E8E8E8;
+}
+table#debug-bar-shortcodes thead th,
+table#debug-bar-shortcodes tfoot th {
+	padding: 0.7em 5px;
+	width: auto;
+	text-align: left;
+}
+table#debug-bar-shortcodes thead th {
+	border-bottom: 1px solid #ccc;
+}
+table#debug-bar-shortcodes tfoot th {
+	border-top: 1px solid #ccc;
+}
+
+
+table#debug-bar-shortcodes th {
+	font-weight: bold;
+	padding: 2px 2em 2px 5px;
+	vertical-align: top;
+	text-align: left;
+}
+table#debug-bar-shortcodes td {
+	padding: 2px 5px;
+	vertical-align: top;
+	border: 0 none;
+}
+/*table.debug-bar-shortcodes tr:nth-child(2n+1) {*/
+table#debug-bar-shortcodes tr.even {
+	background-color: #E8E8E8;
+}
+
+
+table#debug-bar-shortcodes div.row-actions {
+	visibility: hidden;
+}
+
+table#debug-bar-shortcodes td.column-title .spinner {
+	background: no-repeat scroll 0 0 / 16px 16px rgba(0, 0, 0, 0);
+	visibility: hidden;
+	float: right;
+	height: 16px;
+	margin: 2px 5px 0;
+	opacity: 0.7;
+	width: 16px;
+	padding-right: 15px;
+}
+table#debug-bar-shortcodes td.column-title .spinner.is-active {
+	visibility: visible;
+}
+
+
+table#debug-bar-shortcodes tr.debug-bar-shortcodes-details {
+	display: none;
+}
+
+table#debug-bar-shortcodes td code em {
+	color: #999999;
+}
+
+table#debug-bar-shortcodes td ul,
+table#debug-bar-shortcodes td ol {
+	margin: 0;
+	padding: 0 0 0 30px;
+}
+
+table#debug-bar-shortcodes td h4 {
+	font-size: 16px;
+	margin: 8px 0 0 0;
+}
+
+
+table#debug-bar-shortcodes tr.debug-bar-shortcodes-details table,
+table#debug-bar-shortcodes tr.debug-bar-shortcodes-uses table {
+	font-size: 11px;
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+}
+table#debug-bar-shortcodes tr.debug-bar-shortcodes-uses table thead th {
+	text-align: left;
+}
+
+table#debug-bar-shortcodes tr.debug-bar-shortcodes-details table th {
+	width: 110px;
+}
+
+table#debug-bar-shortcodes tr.debug-bar-shortcodes-details table th[colspan] {
+	width: 200px;
+}
+
+table#debug-bar-shortcodes tr.debug-bar-shortcodes-details table tr.debug-bar-shortcodes-sc-parameters {
+	border-top: 1px solid #999999 !important;
+}

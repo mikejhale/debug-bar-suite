@@ -1,0 +1,102 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Debug Bar Post Types\n"
+"POT-Creation-Date: 2018-01-16 01:29+0100\n"
+"PO-Revision-Date: 2017-06-26 16:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: debug-bar-post-types.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc\n"
+
+#: class-debug-bar-post-types.php:99
+msgid "Post Types"
+msgstr ""
+
+#: class-debug-bar-post-types.php:151
+msgid "Total Post Types:"
+msgstr ""
+
+#: class-debug-bar-post-types.php:160
+msgid "Custom Post Types:"
+msgstr ""
+
+#: class-debug-bar-post-types.php:169
+msgid "No post types found."
+msgstr ""
+
+#: class-debug-bar-post-types.php:250
+msgid "Standard Post Type Properties:"
+msgstr ""
+
+#: class-debug-bar-post-types.php:265
+msgid "Custom Post Type Properties:"
+msgstr ""
+
+#: class-debug-bar-post-types.php:294
+msgid "Defined Labels:"
+msgstr ""
+
+#: class-debug-bar-post-types.php:316 class-debug-bar-post-types.php:324
+msgid "Property"
+msgstr ""
+
+#: class-debug-bar-post-types.php:404 class-debug-bar-post-types.php:412
+msgid "Capability"
+msgstr ""
+
+#: class-debug-bar-post-types.php:420
+msgid "Post Type Capabilities:"
+msgstr ""
+
+#: class-debug-bar-post-types.php:444
+msgid "Has capability"
+msgstr ""
+
+#: class-debug-bar-post-types.php:444
+msgid "Does not have capability"
+msgstr ""
+
+#. translators: 1: strong open tag; 2: strong close tag; 3: link to plugin installation page; 4: link close tag.
+#: debug-bar-post-types.php:164
+#, php-format
+msgid ""
+"Activation failed: Debug Bar must be activated to use the %1$sDebug Bar Post "
+"Types%2$s Plugin. %3$sVisit your plugins page to install & activate%4$s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Debug Bar Post Types"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/debug-bar-post-types/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Debug Bar Post Types adds a new panel to the Debug Bar that displays "
+"detailed information about the registered post types for your site. Requires "
+"\"Debug Bar\" plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Juliette Reinders Folmer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.adviesenzo.nl/"
+msgstr ""

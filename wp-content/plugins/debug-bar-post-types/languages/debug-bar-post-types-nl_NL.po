@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Debug Bar Post Types - a WordPress Plugin\n"
+"POT-Creation-Date: 2018-01-16 01:29+0100\n"
+"PO-Revision-Date: 2018-01-16 01:29+0100\n"
+"Last-Translator: Juliette Reinders Folmer <wpplugins_nospam@adviesenzo.nl>\n"
+"Language-Team: Juliette Reinders Folmer <wpplugins_nospam@adviesenzo.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: class-debug-bar-post-types.php:99
+msgid "Post Types"
+msgstr "Post Types"
+
+#: class-debug-bar-post-types.php:151
+msgid "Total Post Types:"
+msgstr "Totaal Post Types:"
+
+#: class-debug-bar-post-types.php:160
+msgid "Custom Post Types:"
+msgstr "Custom Post Types:"
+
+#: class-debug-bar-post-types.php:169
+msgid "No post types found."
+msgstr "Geen post-types gevonden."
+
+#: class-debug-bar-post-types.php:250
+msgid "Standard Post Type Properties:"
+msgstr "Standaard Post Type Eigenschappen:"
+
+#: class-debug-bar-post-types.php:265
+msgid "Custom Post Type Properties:"
+msgstr "Extra Post Type Eigenschappen:"
+
+#: class-debug-bar-post-types.php:294
+msgid "Defined Labels:"
+msgstr "Gedefinieerde Labels:"
+
+#: class-debug-bar-post-types.php:316 class-debug-bar-post-types.php:324
+msgid "Property"
+msgstr "Eigenschap"
+
+#: class-debug-bar-post-types.php:404 class-debug-bar-post-types.php:412
+msgid "Capability"
+msgstr "Capaciteit"
+
+#: class-debug-bar-post-types.php:420
+msgid "Post Type Capabilities:"
+msgstr "Post Type Capaciteiten:"
+
+#: class-debug-bar-post-types.php:444
+msgid "Has capability"
+msgstr "Heeft capaciteit"
+
+#: class-debug-bar-post-types.php:444
+msgid "Does not have capability"
+msgstr "Heeft capaciteit niet"
+
+#. translators: 1: strong open tag; 2: strong close tag; 3: link to plugin installation page; 4: link close tag.
+#: debug-bar-post-types.php:164
+#, php-format
+msgid ""
+"Activation failed: Debug Bar must be activated to use the %1$sDebug Bar Post "
+"Types%2$s Plugin. %3$sVisit your plugins page to install & activate%4$s."
+msgstr ""
+"De Debug Bar plugin moet geactiveerd zijn om de %1$sDebug Bar Post Types%2$s "
+"plugin te kunnen gebruiken. %3$sGa naar de plugins pagina om deze te "
+"activeren%4$s."
+
+#. Plugin Name of the plugin/theme
+msgid "Debug Bar Post Types"
+msgstr "Debug Bar Post Types"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/debug-bar-post-types/"
+msgstr "https://wordpress.org/plugins/debug-bar-post-types/"
+
+#. Description of the plugin/theme
+msgid ""
+"Debug Bar Post Types adds a new panel to the Debug Bar that displays "
+"detailed information about the registered post types for your site. Requires "
+"\"Debug Bar\" plugin."
+msgstr ""
+"Debug Bar Post Types voegt een nieuw paneel toe aan de Debug Bar welke "
+"gedetailleerde informatie weergeeft over de geregistreerde post types in de "
+"site. Vereist de 'Debug Bar' plugin."
+
+#. Author of the plugin/theme
+msgid "Juliette Reinders Folmer"
+msgstr "Juliette Reinders Folmer"
+
+#. Author URI of the plugin/theme
+msgid "http://www.adviesenzo.nl/"
+msgstr "http://www.adviesenzo.nl/"
+
+#~ msgid "WP Screen"
+#~ msgstr "WP Screen"
+
+#~ msgid "Screen:"
+#~ msgstr "Scherm:"
+
+#~ msgid "Screen object not found."
+#~ msgstr "Screen object niet gevonden."
