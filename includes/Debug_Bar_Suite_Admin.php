@@ -35,7 +35,7 @@ class Debug_Bar_Suite_Admin {
 	 * @return void;
 	 */
 	public function settings_menu() {
-		add_management_page(
+		add_options_page(
 			'Debug Bar Suite Settings',
 			'Debug Bar Suite',
 			'manage_options',
@@ -50,7 +50,11 @@ class Debug_Bar_Suite_Admin {
 	 * @return void
 	 */
 	public function admin_page() {
-		$this->options = get_option( 'debug_bar_suite_enabled_addons' );
+
+		$this->options = apply_filters(
+			'debug_bar_suite_enabled_addons',
+			get_option( 'debug_bar_suite_enabled_addons' )
+		);
 		?>
 			<div class="wrap">
 				<h1>Debug Bar Suite Settings</h1>
