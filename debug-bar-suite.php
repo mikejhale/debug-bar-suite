@@ -2,7 +2,7 @@
 /**
  * Plugin bootstrap file
  *
- * @package Debug_Suite
+ * @package Debug_Bar_Suite
  * @version 0.1.0
  */
 
