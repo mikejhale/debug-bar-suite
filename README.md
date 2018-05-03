@@ -44,6 +44,9 @@ Lists scripts and styles that are loaded, in which order they're loaded, and wha
 
 This will log and profile remote requests made through the HTTP API.
 
+### Query Monitor
+Query Monitor is a debugging plugin for anyone developing with WordPress. You can view debugging and performance information on database queries, hooks, conditionals, HTTP requests, redirects and more. It has some advanced features not available in other debugging plugins, including automatic AJAX debugging and the ability to narrow down things by plugin or theme.
+
 ## Features
 * Allows for several Debug Bar Add-ons to be enabled at once
 * Optionally disable Add-ons in Settings (Under `Tools`)
