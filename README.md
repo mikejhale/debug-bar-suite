@@ -49,7 +49,7 @@ Query Monitor is a debugging plugin for anyone developing with WordPress. You ca
 
 ## Features
 * Allows for several Debug Bar Add-ons to be enabled at once
-* Optionally disable Add-ons in Settings (Under `Tools`)
+* Optionally disable Add-ons in Settings (Under `Settings`)
 
 ## Install
 1. Download Zip Archive
@@ -57,5 +57,27 @@ Query Monitor is a debugging plugin for anyone developing with WordPress. You ca
 3. Activate Plugin at backend.
 4. Check top right admin bar menu Debug.
 
-## ToDo
-* Test adding additional add-ons through Hooks/Filters
+## Adding a new Debug Bar Add-on
+Additional Debug Bar add-ons can be added with Composer and enabled via Filters. 
+
+At the command line:
+
+navigate to `wp-content/plugins/debug-bar-suite` folder and install the new Add-on:
+
+```
+composer require wpackagist-plugin/{debug-bar-addon}
+composer update
+```
+
+In the `plugins` or `mu-plugins` folder add a PHP file with the following code: 
+```
+add_filter( 'debug_bar_suite_addon_files', 'debug_bar_suite_add_new_addon_file' );
+
+function debug_bar_suite_add_new_addon_file( $addons ) {
+    $addons[] = array( '{debug-bar-addon}' => 'wp-content/plugins/{debug-bar-addon}/{debug-bar-addon}.php');
+}
+```
+
+*The Add-on won't be enabled if this is added to the theme's functions.php file because that is called after plugins.*
+
+In the WordPress Admin, go to `Settings > Debug Bar Suite` and Enable the new Add-on.
